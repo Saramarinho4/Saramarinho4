@@ -1,16 +1,16 @@
-# ◾Olá, sou Sara 👋
-Bem-vindo ao meu perfil! 🌟
-## ⭐Explorando aqui⭐
+# ◾Hello, I'm Sara 👋
+Welcome to my profile! 🌟
+## ⭐Exploring here⭐
 
-🚀 Este é o meu cantinho onde estou começando a compartilhar minhas aventuras no mundo da tecnologia e da programação.
+🚀 This is my corner where I'm starting to share my adventures in the world of technology and programming.
 
-📚 Você encontrará projetos simples, dicas para iniciantes e curiosidades enquanto eu aprendo e me desenvolvo nesta jornada.
+📚 You'll find simple projects, tips for beginners, and interesting facts as I learn and develop on this journey.
 
-🤝 Estou aberta a sugestões e conselhos, então se você é um(a) veterano(a) na área, sinta-se à vontade para me dar uma mãozinha ou compartilhar sua própria história de início!
+🤝 I'm open to suggestions and advice, so if you're a veteran in the field, feel free to lend me a hand or share your own starting story!
 
-## 🤍Conecte-se comigo🤍
+## 🤍Connect with me🤍
 
-📫 Se você gostaria de se conectar, sinta-se à vontade para me enviar uma mensagem aqui mesmo no GitHub ou me encontrar em outras plataformas. Estou sempre aberta a novas conexões e oportunidades de colaboração.
+📫 If you'd like to connect, feel free to send me a message right here on GitHub or find me on other platforms. I'm always open to new connections and collaboration opportunities.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sara-marinho-488672265/)
 📧 [E-mail](saranovak320@gmail.com)
