@@ -28,7 +28,7 @@
 
 
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4A5FF&background=000000&center=true&vCenter=true&width=440&height=60&lines=Principais+ferramentas)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=440&height=60&lines=Aprimorando+as+seguintes)
 
 
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
