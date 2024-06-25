@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=991&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+seja +bem+vindo+!+%E2%9C%A7)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=991&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+seja +bem+vindo+%E2%9C%A7)
 
 🚀 This is my corner where I'm starting to share my adventures in the world of technology and programming.
 
