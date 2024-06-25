@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=981AF7&background=000000&center=true&vCenter=true&width=440&height=60&lines=✦+Olá!+Bem+vindos!+✦;✦+Welcome+to+my+profile!+✦;✦+Explore+my+projects!+✦)
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4A5FF&background=000000&center=true&vCenter=true&width=440&height=60&lines=✦+Olá!+Bem+vindos!+✦;✦+Welcome+to+my+profile!+✦;✦+Explore+my+projects!+✦)
 
 
