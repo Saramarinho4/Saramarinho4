@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=996&color=951AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+bem+vindo!+%E2%9C%A7)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=990&color=981AF7&random=false&width=435&lines=%E2%9C%A7+Ol%C3%A1!+bem+vindos!+%E2%9C%A7)
 
    # ⭐Exploring here⭐
 
