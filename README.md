@@ -10,7 +10,7 @@
 
 🤝 I'm open to suggestions and advice, so if you're a veteran in the field, feel free to lend me a hand or share your own starting story!
 
-##🤍Connect with me🤍
+## 🤍Connect with me🤍
 
 📫 If you'd like to connect, feel free to send me a message right here on GitHub or find me on other platforms. I'm always open to new connections and collaboration opportunities.
 
