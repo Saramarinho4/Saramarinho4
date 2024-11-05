@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4A5FF&background=000000&center=true&vCenter=true&width=440&height=60&lines=✦+Olá!+Bem+vindos!+✦;✦+Welcome+to+my+profile!+✦;✦+Explore+my+projects!+✦)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4A5FF&background=000000&center=true&vCenter=true&width=440&height=60&lines=🌷+Olá!+Bem+vindos!+🌷;🌷+Welcome+to+my+profile!+🌷;🌷+Explore+my+projects!+🌷)
 
 
 
-   ## ⭐Exploring here⭐
+   ## ✨️Exploring here✨️
 
 🚀 This is my corner where I'm starting to share my adventures in the world of technology and programming.
 
