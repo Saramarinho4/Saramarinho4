@@ -1,11 +1,11 @@
 # 👩‍💻 Olá, eu sou a Sara Marinho!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonada por tecnologia, desenvolvimento web e soluções que impactam o dia a dia das pessoas.
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** apaixonada por tecnologia, desenvolvimento web e soluções que impactam o dia a dia das pessoas.
 
 ---
 
 ## ✨ Sobre mim
-- 🎓 Estudante de ADS na UniCesumar (Marília, SP)  
+- 🎓 Formada em ADS na UniCesumar (Marília, SP)  
 - 🌱 Aprendendo: **Python, JavaScript, Git, SQL, desenvolvimento web**  
 - 💡 Interesses: automação de processos, visualização de dados, aplicações web  
 - 🎯 Objetivo: crescer na área de tecnologia criando soluções inovadoras que facilitem o dia a dia das pessoas
