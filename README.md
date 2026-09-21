@@ -181,7 +181,7 @@ to turn ideas into something people can actually use.
 <img src="https://img.shields.io/badge/LINKEDIN-A98BFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 &nbsp;
-<a href="sthttps://www.instagram.com/aera.cco/">
+<a href="https://www.instagram.com/astera.cco/">
 <img src="https://img.shields.io/badge/INSTAGRAM-A98BFF?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 &nbsp;
